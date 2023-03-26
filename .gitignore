@@ -1,1 +1,2 @@
 web/.env
+django_k8s/.env
